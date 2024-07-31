@@ -1,4 +1,6 @@
 # first-project
 This is my first git respositary
 <br>
-Author-kavya panchal
+Autchor-kavya panchal(kp)
+# Teacher
+Kavya panchal
